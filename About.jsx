@@ -1,5 +1,5 @@
 const STATS = [
-    { value: '8.87', label: 'CGPA', suffix: '' },
+    { value: '8.96', label: 'CGPA', suffix: '' },
     { value: '450+', label: 'Problems Solved', suffix: '' },
     { value: '3+', label: 'Projects Built', suffix: '' },
     { value: '1', label: 'Internship', suffix: '' }
